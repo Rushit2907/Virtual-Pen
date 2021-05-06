@@ -16,10 +16,10 @@ By this project we can draw and write using Color Detection.
 
 ## Demo:
 #### Output of DetectColor.py python file
-![](https://github.com/Rushit2907/Virtual-Pen/blob/main/Outputs/Output1)
+![](https://github.com/Rushit2907/Virtual-Pen/blob/main/Outputs/Output1.gif)
 
 #### Output of Virtual_Pen.py
-![](https://github.com/Rushit2907/Virtual-Pen/blob/main/Outputs/Output2)
+![](https://github.com/Rushit2907/Virtual-Pen/blob/main/Outputs/Output2.gif)
 
 ## Facing any issues?
 Feel free to [open an issue](https://github.com/Rushit2907/Virtual-Pen/issues/new). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
